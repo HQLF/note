@@ -1,0 +1,7 @@
+文件上传:
+git add .
+git commit -m "some description"
+git push -u origin master
+输入密码就上传完成了
+仓库更新到本地：
+git pull
