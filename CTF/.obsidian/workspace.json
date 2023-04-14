@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "49c03447e9257783",
+    "type": "split",
+    "children": [
+      {
+        "id": "96c89b2b39381020",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87e29e48dc5c2ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Binwalk使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dba12866d300d58f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ace405fa5f0f7c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3f3c05d30089f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1dc2717466bc4c1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9a33eba22f75416d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "d5da9890c9b2d486",
+    "type": "split",
+    "children": [
+      {
+        "id": "91546ec2acdd23aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ffca49b4e929b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Binwalk使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5795b792e055bb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Binwalk使用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9ab7046db9bbd92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5392f539dad88314",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Binwalk使用.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "87e29e48dc5c2ff0",
+  "lastOpenFiles": [
+    "Crypto/RSA基础.md",
+    "Binwalk使用.md",
+    "Crypto/python函数.md",
+    "Crypto/DP泄露.md",
+    "Crypto/中国剩余定理.md",
+    "Crypto/同余.md",
+    "Crypto/扩展欧几里得算法.md",
+    "Crypto/乘法逆元.md",
+    "Latex符号.md",
+    "Misc",
+    "Crypto"
+  ]
+}
