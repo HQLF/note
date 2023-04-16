@@ -6,3 +6,5 @@ git push -u origin master
 输入密码就上传完成了
 仓库更新到本地：
 git pull
+
+查看远程USL连接：git remote -v
